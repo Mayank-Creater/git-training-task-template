@@ -1,1 +1,3 @@
 Hello everyone! My name is Mayank Kumar Gupta and I am currently enrolled in B.Tech at Ajay Kumar Garg Engineering College in CSE branch.
+Skills: Python Developer, Backend Development
+Hobbies: Listening to music, Writing
